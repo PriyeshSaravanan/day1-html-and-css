@@ -1,0 +1,14 @@
+.card{
+    border: 1px solid pink;
+    padding: 30px;
+    margin-top: 4px;
+    width: 250px;
+}
+h2{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
